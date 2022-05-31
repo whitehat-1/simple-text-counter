@@ -1,4 +1,4 @@
-# simple-text-counter
+# simple-text-counter (Danjo)
 
 
 Django Framework
